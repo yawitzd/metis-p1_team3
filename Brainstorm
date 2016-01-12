@@ -1,0 +1,20 @@
+##Problem
+- Fill the event
+- Get the most signatures
+- Get the highest volume of donations
+- Increase awareness of women in tech
+
+##Data
+- MTA turnstile data
+- Income data
+- Other tech events in the area (Meetup?)
+- Weather
+- Other comparable organizations
+
+##Constraints
+- Closed subways
+
+##Questions
+- Profile of likely donors (e.g. religious, poor, rich, female)?
+- How long should an ideal interaction be?
+- Dynamic placement? Have teams move between stations during the day as volume changes?
