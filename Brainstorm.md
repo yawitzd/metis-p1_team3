@@ -1,8 +1,9 @@
 ##Goals
 - Get the most signatures from people we expect will be interested in tech. 
+- Target people during the workday (going to work, at lunch, going home).
+- Only target neighborhoods we know have a lot of tech companies.
 - get top 50 stations
 - from those 50, only pick the ones in tech-heavy neighborhoods
-- 
 
 ##Problem
 1. Fill the event
