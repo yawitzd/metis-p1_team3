@@ -1,3 +1,9 @@
+##Goals
+- Get the most signatures from people we expect will be interested in tech. 
+- get top 50 stations
+- from those 50, only pick the ones in tech-heavy neighborhoods
+- 
+
 ##Problem
 1. Fill the event
 2. Get the highest volume of donations
@@ -19,3 +25,5 @@
 - Dynamic placement? Have teams move between stations during the day as volume changes?
 - Are there anomalies in the MTA data? E.g the Barclays Center may have massive traffic occasionally, but that can be hard to predict from the MTA schedule
 
+##
+N/R 23rd + 28th
