@@ -15,9 +15,8 @@
 4. Data collection. Get the most signatures
 
 ##Data
-- MTA turnstile data
+- MTA turnstile data, geocoded
 - Income data
-- Other tech events in the area (Meetup?)
 - Weather
 
 ##Constraints
