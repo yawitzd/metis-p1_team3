@@ -1,3 +1,6 @@
+##Problem statement
+- At which stations and at which times of day can we position workers to get the greatest number of signatures for people interested in attending a women-in-tech gala?
+
 ##Goals
 - Get the most signatures from people we expect will be interested in tech. 
 - Target people during the workday (going to work, at lunch, going home).
